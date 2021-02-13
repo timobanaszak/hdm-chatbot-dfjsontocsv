@@ -1,0 +1,61 @@
+[
+  {
+    "id": "foo",
+    "data": [
+      {
+        "text": "Wann"
+      },
+      {
+        "text": " ist Weihnachten?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "foo",
+    "data": [
+      {
+        "text": "Weihnachten",
+        "userDefined": false
+      },
+      {
+        "text": "Termin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "foo",
+    "data": [
+      {
+        "text": "Nächstes Weihnachten Ringvorlesungen",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  },
+  {
+    "id": "foo",
+    "data": [
+      {
+        "text": "Heiligabend",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "de",
+    "updated": 0
+  }
+]

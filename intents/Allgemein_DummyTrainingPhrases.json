@@ -1,0 +1,23 @@
+{
+  "id": "foo",
+  "name": "Allgemein_DummytrainingPhrases",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "de",
+          "speech": [
+            "Beispielhafte Antwort :--)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ]
+}

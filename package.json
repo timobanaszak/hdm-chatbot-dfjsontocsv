@@ -1,0 +1,16 @@
+{
+  "name": "dialogflow-to-csv",
+  "version": "1.0.0",
+  "description": "Create a readable CSV files with specific information based on dialogflow's json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Timo Banaszak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-2-csv": "^3.7.8",
+    "objects-to-csv": "^1.3.6"
+  }
+}
